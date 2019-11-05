@@ -1,0 +1,12 @@
+{
+    "first": [
+        {
+            "subfirstOne1": "something",
+            "subfirstOne2": "something else"
+        },
+        {
+            "subfirstTwo": "something same"
+        }
+    ],
+    "second": "empty here"
+}
